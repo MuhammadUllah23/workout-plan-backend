@@ -1,0 +1,2 @@
+class SetsAndRepsController < ApplicationController
+end
