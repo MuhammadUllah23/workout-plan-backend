@@ -6,8 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-hammad = User.create({name: "Hammad23", password: "Hammad23$"})
+hammad = User.create({username: "Hammad23", password: "Hammad23$"})
 
-chest_triceps = WorkoutSession.create({name: 'Chest/Triceps', focus: 'Chest and Triceps'})
-back_biceps = WorkoutSession.create
+
 
